@@ -4,7 +4,7 @@
   
 同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
 
-# 如何贡献
+# Upload You Works on Your Own Brache For Creator 然后上传您的杰作在自己的分支
   
 针对发现的问题，直接修改并提交 Pull request 即可。  
   
