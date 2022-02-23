@@ -1,4 +1,4 @@
-# FuckUSCOMO
+# FuckUSCOMO二创分支
   
 一个可协作的莫里森政治笑话、恶搞图片、梗、以及逆天二创合集 A collaborative collection of SCOMO's political jokes, parodies, memes, and re-creations etc.  
   
@@ -8,6 +8,4 @@
   
 针对发现的问题，直接修改并提交 Pull request 即可。  
   
-在上传新原创二创时，请新建您自己的分支(Braches)，今后上传至您自己的分支即可，上传二创也可选择写一个简短的小简介附在README.md中  
-
-如果您需要转发既有存在的二创、梗，您需要上传到“re-creations”分支内
+如果您需要转发既有存在非您原创的二创、梗，您需要上传到“re-creations”分支内
